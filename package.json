@@ -1,0 +1,21 @@
+{
+  "name": "koa-scss",
+  "version": "0.1.0",
+  "description": "Koa middleware for SCSS",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adamkdean/koa-scss"
+  },
+  "keywords": [
+    "sass",
+    "scss",
+    "koa"
+  ],
+  "author": "Adam K Dean <adamkdean@googlemail.com> (http://www.adamkdean.co.uk/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adamkdean/koa-scss/issues"
+  },
+  "homepage": "https://github.com/adamkdean/koa-scss"
+}

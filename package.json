@@ -1,6 +1,6 @@
 {
   "name": "koa-scss",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Koa middleware for SCSS",
   "main": "index.js",
   "repository": {
@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/adamkdean/koa-scss/issues"
   },
-  "homepage": "https://github.com/adamkdean/koa-scss"
+  "homepage": "https://github.com/adamkdean/koa-scss",
+  "dependencies": {
+    "node-sass-middleware": "^0.5.0"
+  }
 }
